@@ -1,0 +1,19 @@
+/*
+	American Standard Inmobiliaria
+	2016
+*/
+@font-face {
+    font-family: 'Kozuka';
+    src: url('../assets/fonts/Kozuka.otf');
+}
+
+body{
+	font-family: 'Kozuka' !important;
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+#fullWidthBanner img{
+	height: 100%;
+}
